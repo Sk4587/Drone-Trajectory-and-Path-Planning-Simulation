@@ -40,7 +40,7 @@ I use a slightly higher threshold at the circular trajectory to get a smoother a
 To land the drone safely from (2.5,2.5,2.5) to (2.5,2.5,0) at a constant speed of 0.1, I updated the reference state as (2.5,2.5, Current Z position -0.11, 0,0,-0.11, zeros(6)) so that the reference is updated smoothly, thereby controlling the velocity.
 
 ![image](https://github.com/Sk4587/Drone-Trajectory-and-Path-Planning-Simulation/assets/46374770/96bd8289-22b0-4eae-ab6d-09c8e533c454)
-
+<b>Note:</b> This project is part of Coursework for COMP0128-Robotic Control Theory and Systems at University College London. Copyrights under [Dr. Francisco Vasconcelos](https://www.ucl.ac.uk/surgical-robot-vision/francisco-vasconcelos)
 
 
 
