@@ -1,4 +1,7 @@
 # Drone-Trajectory-and-Path-Planning-Simulation
+<i>This project is part of Coursework for COMP0128-Robotic Control Theory and Systems at University College London. Copyrights under [Dr. Francisco Vasconcelos](https://www.ucl.ac.uk/surgical-robot-vision/francisco-vasconcelos)</i>
+
+<br>
 
 ![image](https://github.com/Sk4587/Drone-Trajectory-and-Path-Planning-Simulation/assets/46374770/174e3595-d43a-48c9-bb40-6f2b55240289)
 
@@ -42,7 +45,7 @@ To land the drone safely from (2.5,2.5,2.5) to (2.5,2.5,0) at a constant speed o
 ![image](https://github.com/Sk4587/Drone-Trajectory-and-Path-Planning-Simulation/assets/46374770/96bd8289-22b0-4eae-ab6d-09c8e533c454)
 
 
-<b>Note:</b> This project is part of Coursework for COMP0128-Robotic Control Theory and Systems at University College London. Copyrights under [Dr. Francisco Vasconcelos](https://www.ucl.ac.uk/surgical-robot-vision/francisco-vasconcelos)
+
 
 
 
