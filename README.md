@@ -14,13 +14,13 @@ Sim_Quadcopter3
 Implement a simulation of a quadcopter, following the non-linear model in [Quadcopter Dynamics Simulation and Control](https://andrew.gibiansky.com/blog/physics/quadcopter-dynamics/)
 
 Assume the entire state of the quadcopter can be measured by sensors with 100% accuracy. Also, assume that the input ϒi to each propeller is limited to +/-1.5. Using the quadcopter simulator from question 1, implement a full-state feedback controller that makes the drone perform the following trajectory:
-a. Starts at (0,0,0) 
-b. Moves up to (0,0,5) 
-c. Stays at (0,0,5) for 5 seconds. 
-d. Moves to (0,2.5,5)
-e. Moves along a circular trajectory with radius 2.5 on a vertical plane with constant x=0, passing through the points (0,0,7.5), (0,-2.5,5), (0,0,2.5) and back to (0,2.5,5).
-f. Moves to (2.5,2.5,2.5)
-g. Lands at (2.5,2.5,0) safely by moving down at a constant speed of 0.1 m/s.
+1. Starts at (0,0,0) 
+1. Moves up to (0,0,5) 
+1. Stays at (0,0,5) for 5 seconds. 
+1. Moves to (0,2.5,5)
+1. Moves along a circular trajectory with radius 2.5 on a vertical plane with constant x=0, passing through the points (0,0,7.5), (0,-2.5,5), (0,0,2.5) and back to (0,2.5,5).
+1. Moves to (2.5,2.5,2.5)
+1. Lands at (2.5,2.5,0) safely by moving down at a constant speed of 0.1 m/s.
 
 More details about the task are given [here](https://github.com/Sk4587/Drone-Trajectory-and-Path-Planning-Simulation/blob/main/QuadcopterCoursework.pdf)
 
